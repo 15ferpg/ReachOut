@@ -16,3 +16,4 @@ Este repositorio contiene los recursos y enlaces relacionados con el proyecto de
 ---
 
 ¡Gracias por visitar nuestro proyecto! 🚀
+Realizado por: Fernando y Tomi
