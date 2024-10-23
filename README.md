@@ -16,4 +16,11 @@ Este repositorio contiene los recursos y enlaces relacionados con el proyecto de
 ---
 
 ¡Gracias por visitar nuestro proyecto! 🚀
---Realizado por: Fernando Pérez Gómez, Tomás Sañudo Durán, Timotheé Mostacero Durand, Antonio Javier Díaz Cuadrado y Paula Isabel Juanes Gil
+## 
+Realizado por: 
+- Fernando Pérez Gómez
+- Tomás Sañudo Durán
+- Timotheé Mostacero Durand
+- Antonio Javier Díaz Cuadrado
+- Paula Isabel Juanes Gil
+
